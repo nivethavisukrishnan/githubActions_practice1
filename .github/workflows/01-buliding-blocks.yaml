@@ -10,7 +10,7 @@ jobs:
     echo-goodbye:
         runs-on: ubuntu-latest
         steps:
-            - name: Successful step
+            - name: Successful steps
               run: 
                 echo "I am 
                 echo "a multi line"
