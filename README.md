@@ -1,3 +1,3 @@
 # githubActions_practice1
 
-to undertand github actions
+to undertand github actions chbanggred
