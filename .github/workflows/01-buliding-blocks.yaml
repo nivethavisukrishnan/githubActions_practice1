@@ -12,7 +12,7 @@ jobs:
         steps:
             - name: Successful steps
               run: 
-                echo "I am 
+                echo "I am"
                 echo "a multi line"
                 echo "that succeeds"
                 exit 0
